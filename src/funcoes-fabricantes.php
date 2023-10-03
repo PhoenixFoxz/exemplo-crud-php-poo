@@ -1,4 +1,5 @@
 <?php
+
 require_once "conecta.php";
 
 function lerFabricantes( PDO $conexao ):array {
