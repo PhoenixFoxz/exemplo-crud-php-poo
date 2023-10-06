@@ -1,5 +1,5 @@
 {
-    "name" : "felipe/exemplo-crud-php-poo",
+    "name" : "tiago/exemplo-crud-php-poo",
     "description" : "Versão do exemplo usando orientação a objetos",
     "autoload" : {
         "psr-4": {
